@@ -1,8 +1,9 @@
-# The Knight's tour
-Este proyecto se trata de hacer una simulación de el problema del caballo en python con la libreria Pygame.
+# The Knight's Tour
 
-El problema del caballo es un antiguo problema matemático en el que se pide que, teniendo una cuadrícula de n x n casillas y un caballo de ajedrez colocado en una posición cualquiera ( x, y ), el caballo pase por todas las casillas una sola vez.
+This project is a simulation of the Knight's Tour problem in Python using the Pygame library.
 
-El programa te permite seleccionar la casilla donde quieres que el caballo empieze su recorrido, y aplicará La regla de Warnsdorf para encontrar la casilla siguiente a la que se moverá, aplicara la regla en bucle hasta que termine el recorrido exitosamente
+The Knight's Tour is an ancient mathematical problem where, given an \( n \times n \) grid and a knight placed on any initial square ( \( x, y \) ), the goal is for the knight to visit every square exactly once.
+
+The program allows you to select the starting square for the knight’s tour. It then uses Warnsdorff's Rule to determine the next square to move to, applying this rule in a loop until the tour completes successfully.
 
 ![Knight](https://github.com/user-attachments/assets/4030ed59-ff98-48a4-97c7-c86ab5aa052f)
