@@ -16,7 +16,7 @@ GRAY = (128, 128, 128)  # Color del grafo
 BLACK = (0, 0, 0)
 
 # Definir el delay
-DELAY = 1000
+DELAY = 200
 
 # Crear la ventana
 win = pygame.display.set_mode((WIDTH, HEIGHT))
