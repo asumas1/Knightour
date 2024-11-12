@@ -2,7 +2,7 @@
 
 This project is a simulation of the Knight's Tour problem in Python using the Pygame library.
 
-The Knight's Tour is an ancient mathematical problem where, given an \( n \times n \) grid and a knight placed on any initial square ( \( x, y \) ), the goal is for the knight to visit every square exactly once.
+The Knight's Tour is an ancient mathematical problem where, given an (n * n) grid and a knight placed on any initial square (x, y), the goal is for the knight to visit every square exactly once.
 
 The program allows you to select the starting square for the knight’s tour. It then uses Warnsdorff's Rule to determine the next square to move to, applying this rule in a loop until the tour completes successfully.
 
