@@ -1,6 +1,6 @@
 # The Knight's Tour
 
-This project is a simulation of the Knight's Tour problem in Python using the Pygame library.
+This project is a simulation of the Chess Knight's Tour problem in Python using the Pygame library.
 
 The Knight's Tour is an ancient mathematical problem where, given an (n * n) grid and a knight placed on any initial square (x, y), the goal is for the knight to visit every square exactly once.
 
